@@ -33,6 +33,31 @@ En cierto campos de fuerza, el trabajo no depende de la trayectoria que siga la 
 
 Para este tipo de campos de fuerza, por tanto, 
 
+(insertar apuntes pizarra). 
 
-Vamos a comprobar que en el caso eléctrico es así. 
+**** Campo eléctrico como campo de fuerza conservativo: 
+
+Si queremos calcular ahora el trabajo que realiza el campo de fuerza eléctrica (igual al campo y la carga que tenga la partícula). Si el campo electrico lo podemos escribir como el gradiente 
+
+
+El campo total en un punto es la suma de la carga eléctrica de las cargas individuales. Para cada una 
+
+(ver fotos de la pizrra) 
+
+- Si el desplazamiento tiene exactamente la dirección radial, el campo E tendría el máximo valor (puesto que los dos vectores tendrían el mismo sentido): 
+- Si el desplazamiento tiene dirección perpendicular, el campo E sería 0, el campo E tendría una contribución nula, puesto que el producto escalar sería 0. 
+
+Al desplazarnos de un punto otro, 
+
+(ver foto de la pizarra). 
+
+POr tanto, al desplazarnos entre dos puntos, en el campo de las cargas eléctricas vamos a hablar del campo ecalar V (equivalente a Energía potencial). 
+
+(ver foto de la pizarra).
+
+Por tanto, si definimos el campo escalar V =.. se tiene que dv = -ke q/r2dr = -Edr 
+
+Por tanto, para calcular el trabajo de la fuerza eléctrica, 
+
+
 
