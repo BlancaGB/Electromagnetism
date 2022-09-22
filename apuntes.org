@@ -2,10 +2,9 @@
 #+STARTUP: indent
 #+SETUPFILE: config.org
 #+OPTIONS: H:3
-#+PROPERTY: header-args :results output :exports both :session R:intro :tangle yes :comments org
+#+PROPERTY: header-args :results output :exports both :session R:apuntes :tangle yes :comments org
 
 * 
-
 ** ¿Qué es R?
 *** ¿Qué es =R=?						    
 Es un entorno de programación orientado al cálculo, manipulación de datos, y representación gráfica, publicado como software libre con licencia GNU-GPL.
@@ -28,4 +27,12 @@ El incremento diferencial de la energía lo puedo obtener olvidándome con respe
 
 Derivada del primero por el primeoro sin derivar y derivada del segundo por el primero sin derivar. Pon
 
-*** Campos de fuerza conservativos
+*** Campos de fuerzas conservativos
+
+En cierto campos de fuerza, el trabajo no depende de la trayectoria que siga la partícula. En estos casos, se cumple que existe un campo escalar, que llamamos energía potencial E, tal que Fvect = -grad Epot. 
+
+Para este tipo de campos de fuerza, por tanto, 
+
+
+Vamos a comprobar que en el caso eléctrico es así. 
+
