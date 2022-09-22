@@ -59,5 +59,15 @@ Por tanto, si definimos el campo escalar V =.. se tiene que dv = -ke q/r2dr = -E
 
 Por tanto, para calcular el trabajo de la fuerza eléctrica, 
 
+para el campo electrico que crea cada carga, podemos escribir la funcion escalar potencial electrico....
 
+El potencial electrico entonces V (que nos ha aparecido analizando una carga electrica en concreto), da lugar a un potencial electrico total, 
+
+
+\begin{equation}                        % arbitrary environments,
+x=\sqrt{b}                              % even tables, figures
+\end{equation}                          % etc
+
+If $a^2=b$ and \( b=2 \), then the solution must be
+either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].
 
