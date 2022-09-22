@@ -112,7 +112,7 @@ La distancia r al origen es muy facil, sería $r=\sqrt(x^2+y^2)=\sqrt(x^2+((\fra
 
 Y el diferencial de longitud, viene dado por $dl=\sqrt(dx^2+dy^2)=\sqrt(dx^2(1+dy/dx^2)=$
 
-$y'=\frac{dx}{dy} = \frac{d}{x}\frac{a^2}{x}=-\frac{a^2}{x^2}$
+$y^{'}=\frac{dx}{dy} = \frac{d}{x}\frac{a^2}{x}=-\frac{a^2}{x^2}$
 
 $V= \int_{x=a}^{x=2a} k_e\frac{\lambda dx \sqrt (1+\frac{-a^2}{x^2}}){\sqrt(x^2+(\frac{a^2}{x})^2}$
 
