@@ -2,6 +2,7 @@
 #+STARTUP: indent
 #+SETUPFILE: config.org
 #+OPTIONS: H:3
+#+OPTIONS: tex:t
 #+PROPERTY: header-args :results output :exports both :session R:apuntes :tangle yes :comments org
 
 * 
