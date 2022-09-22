@@ -1,10 +1,10 @@
-#+TITLE:     Introducción a R
+#+TITLE:     Apuntes de Electricidad y Magnetismo - Grado en Ing. de Materiales
 #+STARTUP: indent
 #+SETUPFILE: config.org
 #+OPTIONS: H:3
 #+PROPERTY: header-args :results output :exports both :session R:intro :tangle yes :comments org
 
-* Introducción
+* 
 
 ** ¿Qué es R?
 *** ¿Qué es =R=?						    
@@ -12,3 +12,20 @@ Es un entorno de programación orientado al cálculo, manipulación de datos, y 
 #+BEGIN_CENTER
  [[http://www.R-project.org]] 
 #+END_CENTER
+
+
+** Trabajo de un campo de fuerza
+
+Lo que nos importa es la dirección de la fuerta sobre la trayectoria de la partícula. Utilizamos el concepto de variación diferencial de posición (con el vector r, con respecto a un sistema de referencia, y diferencial de r es el increemento infinitesimal de ese vector). Para un desplazamiento pequeño diferencial, si multiplicamos F.dr e integramos entre el punto inicial (A) y final (B) ese es el trabajo de un campo de fuerza sobre la partícula de un punto a otro. 
+
+Una partícula sobre la cual no se ejerce ninguna fuerza no se acelera (2ª ley de Newton). 
+
+Cuando la partícula se mueve de un punto a otro hay una pequeña variación infinitesimal (dr)
+
+Si yo diferencio (es decir, veo como es esta magnitud cuando hay una variación infinetesimal). 
+
+El incremento diferencial de la energía lo puedo obtener olvidándome con respecto a que estoy derivando. 
+
+Derivada del primero por el primeoro sin derivar y derivada del segundo por el primero sin derivar. Pon
+
+*** Campos de fuerza conservativos
