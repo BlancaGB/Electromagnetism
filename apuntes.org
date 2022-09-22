@@ -1,5 +1,6 @@
 #+TITLE:     Apuntes de Electricidad y Magnetismo - Grado en Ing. de Materiales
 #+STARTUP: indent
+#+STARTUP: latexpreview
 #+SETUPFILE: config.org
 #+OPTIONS: H:3
 #+OPTIONS: tex:t
