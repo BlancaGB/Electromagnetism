@@ -86,6 +86,7 @@ Si tuvieramos un volumen integraríasmo sobre el volumen ....
 
 $x^2$
 
+$x=\sqrt{b}$
 
 
 \begin{equation}                        % arbitrary environments,
@@ -94,4 +95,7 @@ x=\sqrt{b}                              % even tables, figures
 
 If $a^2=b$ and \( b=2 \), then the solution must be
 either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].
+
+
+Gustavo resuleve el ejercicio. 
 
