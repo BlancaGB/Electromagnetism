@@ -99,3 +99,16 @@ either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].
 
 Gustavo resuleve el ejercicio. 
 
+
+Ejercicio 2.2 
+
+Desde el punto de vista físico, hay que saber que hay que calcular el potencial según 
+
+$V=\in_A^B k_e \frac{\lamda dl}{r} = $ 
+
+Matemáticamente, vamos a ver a qué es igual a cada parte. Vamos a ver si puedo integrar en función de la variable x. Intentemos escribir r y dl en funcion d el variable x. 
+
+La distancia r al origen es muy facil, sería $r=\sqrt(x^2+y^2)=\sqrt(x^2+((\frac{a}{x})^2 $
+
+Y el diferencial de longitud, viene dado por $dl=\sqrt(dx^2+dy^2)=\sqrt(dx^2(1+dy/dx^2)=$
+
