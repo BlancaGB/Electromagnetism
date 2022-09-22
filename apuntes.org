@@ -1,0 +1,14 @@
+#+TITLE:     Introducción a R
+#+STARTUP: indent
+#+SETUPFILE: config.org
+#+OPTIONS: H:3
+#+PROPERTY: header-args :results output :exports both :session R:intro :tangle yes :comments org
+
+* Introducción
+
+** ¿Qué es R?
+*** ¿Qué es =R=?						    
+Es un entorno de programación orientado al cálculo, manipulación de datos, y representación gráfica, publicado como software libre con licencia GNU-GPL.
+#+BEGIN_CENTER
+ [[http://www.R-project.org]] 
+#+END_CENTER
