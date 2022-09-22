@@ -6,6 +6,8 @@
 #+OPTIONS: tex:t
 #+PROPERTY: header-args :results output :exports both :session R:apuntes :tangle yes :comments org
 
+#+LaTeX_+HEADER: \usepackage{siunitx} 
+
 * 
 ** ¿Qué es R?
 *** ¿Qué es =R=?						    
@@ -64,6 +66,26 @@ Por tanto, para calcular el trabajo de la fuerza eléctrica,
 para el campo electrico que crea cada carga, podemos escribir la funcion escalar potencial electrico....
 
 El potencial electrico entonces V (que nos ha aparecido analizando una carga electrica en concreto), da lugar a un potencial electrico total, 
+
+
+Recapitulando, para F conservativa... 
+
+
+Podemos pensar en superficies en las que el potencial eléctrico es constante. 
+
+
+(ver pizarar). 
+
+Para una pa de una partícula cargada bajo la acción de un campo eléctrico 
+
+V: potencial que crea el resto de cargas que hay en el espacio. 
+PAra calcular el potencial, si tenemos varis, sería igual al sumatorio de las cargas. 
+Si tuvieramos una distribución de cargas, tendríamos que integrar. 
+Si tuvieramos un volumen integraríasmo sobre el volumen .... 
+
+
+$x^2$
+
 
 
 \begin{equation}                        % arbitrary environments,
