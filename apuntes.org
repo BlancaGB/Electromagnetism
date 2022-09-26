@@ -163,7 +163,7 @@ $\vec{F} = q_p\vec{E} $
 $m\vec{a} =\vec{F} =  q_p\vec{E} $ 
 
 
-** Gradiente de $\vec{E} en casos de interés$
+** Gradiente de $\vec{E}$ en casos de interés
 
 *** (a) Si $\rho$ solo dpende de z 
 
@@ -191,3 +191,15 @@ $\vec{E} = E(r) \hat{u_r} = -\vec{grad} (V) = - \frac{\partial V}{\partial r} \h
 
 El potencial $V$ sólo depende de la distancia r 
 
+
+** Cálculo del potencial V a partir del campo eléctrico $\vec{E}$
+
+Lo que varía cualquier función escalar es su gradiente multipiplicaod por su vector de posición . Podemos ver fácilmente cuál es la diferencia de potencial entre dos campos cualesquiera basándonos en esta expresión diferencial. 
+
+$\vec{E} = -\vec{grad} (V)$ 
+
+$dV = \vec{grad} (V) \cdot \vec{d}r  = \vec{E} \cdot  \vec{d}r $ 
+
+Entre dos puntos A y B, el potencial 
+
+$V_B - V_A = \int_A^B dV = \int_A^B - \vec{E} \cdot  \vec{d}r  $
