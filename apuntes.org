@@ -169,7 +169,7 @@ $m\vec{a} =\vec{F} =  q_p\vec{E} $
 
 $E(z) = E_z (z) \hat{u_z}$
 
-$E = - \vec{grad} V = - \frac{\partial V(z)}{\partial z} \hat{u_z} $ 
+$E = - \vec{grad} (V) = - \frac{\partial V(z)}{\partial z} \hat{u_z} $ 
 
 El campo eléctrico $\vec{E}$ sólo tiene componente según z, $V$ solo puede depender de z, $V(z) 
 
@@ -181,13 +181,13 @@ El campo eléctrico es perpendicular a las superficies en las que V es constante
 
 $\vec{E} = E_(r) \hat{u_r}$ 
 
-$E = - \vec{grad} V = - \frac{\partial V}{\partial zr} \hat{u_r} $ 
+$E = - \vec{grad} (V) = - \frac{\partial V}{\partial zr} \hat{u_r} $ 
 
 
 *** (c) Distribución de carga con eje de simetría de revolución, $\rho$ sólo dpende de la distancia $r$ al eje 
 
 
-$\vec{E} = E(r) \hat{u_r} = -\vec{grad} V = - \frac{\partial V}{\partial r} \hat{u_r} $ 
+$\vec{E} = E(r) \hat{u_r} = -\vec{grad} (V) = - \frac{\partial V}{\partial r} \hat{u_r} $ 
 
 El potencial $V$ sólo depende de la distancia r 
 
