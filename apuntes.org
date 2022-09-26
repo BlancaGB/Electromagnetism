@@ -187,7 +187,7 @@ $E = - \vec{grad} V = - \frac{\partial V}{\partial zr} \hat{u_r} $
 *** (c) Distribución de carga con eje de simetría de revolución, $\rho$ sólo dpende de la distancia $r$ al eje 
 
 
-$\vec{E} = E(r) \hat{u_r} = -{grad} V = - \frac{\partial V}{\partial r} \hat{u_r} $ 
+$\vec{E} = E(r) \hat{u_r} = -\vec{grad} V = - \frac{\partial V}{\partial r} \hat{u_r} $ 
 
 El potencial $V$ sólo depende de la distancia r 
 
