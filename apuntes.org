@@ -153,3 +153,10 @@ $1/2 m_p v_B^2 - 1/2 m 0^2 = - (q_p V_B - q_p V_A) $
 
 $v_b = \sqrt (\frac{2}{m_p} (q_p V_a - q_p V_B) ) = \sqrt (\frac{2 q_p}{m_p} (V_a - V_B) ) = \sqrt (\frac{2 q_p}{m_p} \frac{(V_2 - V_1)}{d}l)  $
 
+$V_A-V_B = (V_1 + \frac{V_2 -V_1}{d} z_A) - (V_1 + \frac{V_2 -V_1}{d} z_B) = \frac{V_2 - V_1}{d}l $
+
+Esto es lo que encontramos cuando tenemos dos conductores (le llamamos un condensador)
+
+$\vec{F} = q_p\vec{E} $ 
+
+$m\vec{a} =\vec{F} =  q_p\vec{E} $ 
