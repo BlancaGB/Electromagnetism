@@ -148,7 +148,7 @@ $E_c + E_p = constante $
 
 $\Delta E_c = - \Delta E_p$ 
 
-$E_{c,B}-E_{c,A} = -(E_{p,B}-E_{p,A}) $
+$E_{c,B}-E_{c,A} = -(E_{p,B}-E_{p,A})$
 
 $1/2 m_p v_B^2 - 1/2 m 0^2 = - (q_p V_B - q_p V_A) $
 
