@@ -137,7 +137,7 @@ $V = V_1 + \frac{V2-V1}{d} z
 
 Caclculamos el campo eléctrico 
 
-$\vec{E} =-\vec{grad} V = - \lgroup \frac{\partial V }{\partial x} \hat{\u_x} + \frac{\partial V }{\partial y} \hat{\u_y} + \frac{\partial V }{\partial z} \hat{\u_z}  \rgroup =  - \lgroup 0 + \frac{\partial V }{\partial z} \hat{\u_z}  = -\frac{\partial  }{\partial z} \lgroup V_1 +  \frac{V_2 - V_1 }{d}z \hat{\u_z}  = - \frac{V_2 - V_1 }\hat{\u_z}$
+$\vec{E} =-\vec{grad} V = - \lgroup \frac{\partial V }{\partial x} \hat{u_x} + \frac{\partial V }{\partial y} \hat{u_y} + \frac{\partial V }{\partial z} \hat{u_z}  \rgroup =  - \lgroup 0 + \frac{\partial V }{\partial z} \hat{u_z}  = -\frac{\partial  }{\partial z} \lgroup V_1 +  \frac{V_2 - V_1 }{d}z \hat{u_z}  = - \frac{V_2 - V_1 }\hat{u_z}$
 
 Podemos preguntarnos, ¿qué ocurriría con una cierta partícula cargada que pusiéramos en el esapcio entre los planos? 
 ¿Seríais capaz de calcular como varia la velocidad de la partícula al pasar del punto A al B, de masa mp y carga qp, partiendo del reposo? 
