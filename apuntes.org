@@ -203,3 +203,45 @@ $dV = \vec{grad} (V) \cdot \vec{d}r  = \vec{E} \cdot  \vec{d}r $
 Entre dos puntos A y B, el potencial 
 
 $V_B - V_A = \int_A^B dV = \int_A^B - \vec{E} \cdot  \vec{d}r  $
+
+Paréntesis, hemos visto que para una carga puntal q: 
+
+$V = k_e \frac{q}{r} = \frac{1}{4 \pi \epsilon_0} \frac{q}{r} $ 
+
+Luego 
+
+En el caso de distribución de carga de tañao finito, al ser V=0 en $\inf$: 
+
+$V_P = V_P - 0 = \int_{\inf}^P \vec{E} \cdot  \vec{d}r  $
+
+En este caso, 
+
+$V_B - V_A = \int_A ^B -\vec{E} \cdot \vec{d}r  $ 
+
+**** Ejemplo: recta uniformemente cargada con densidad lineal $\lambda$ 
+
+No podemos decir que la recta tiene un potencial 0 en el infinito, porque la recta llega hasta el inifnito. 
+
+Puedo calcular la diferencial de potencial entre los puntos a la distancia $r_a$ y $r_b$
+
+$\vec{E} = \frac{\lambda}{2 \pi \epsilon_0 r \hat{u_r}} = $ 
+
+= \int_A^B = -\frac{\lambda}{2 \pi \epsilon_0 r} dr = -\frac{\lambda}{2 \pi \epsilon_0 r} \int_A^B \frac{dr}{r} = \frac{\lambda}{2 \pi \epsilon_0 r} ln r _{r_A}^{r_B} =$ 
+
+$= -\frac{\lambda}{2 \pi \epsilon_0 r} (ln (r_b) - ln (r_a)) = - \frac{\lambda}{2 \pi \epsilon_0 r} ln (\frac{r_B}{r_A})
+
+
+**** Ejemplo: Esfera uniformemente cargada, con densidad de carga volumétrica $\rho$, de radio R 
+
+¿Cómo calcular la diferencia de potencial entre varios puntos?
+
+Aquí sí podemos tomar como origen de potenciales el infinito V = 0 (la carga está contenida en un volumen).  
+
+$V_p = int_{inf}^P - \vec{E} \cdot \vec{dr} $ 
+
+Hemos obtenido que 
+
+$E = \frac{1}{4 \pi \epsilon _0} \frac{4/3 \pi \R^3 \rho}{r^2} \hat{u_r} $ si r>R
+
+$E = \frac{\rho r}{3 \epsilon_0}\hat{u_r} $ si r<=R
+
