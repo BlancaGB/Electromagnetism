@@ -260,3 +260,84 @@ Para puntos dentro de la esfera, con $r_p > R$,
 Si pintamos entonces el varlor del potencial en función de la distancia (V s r)
 
 (completar dibujo de clase)
+
+
+
+**** Ejemplo: Comparación entre la fuerze electrostática y gravitatoria 
+
+Ejemplo de Feynmann: si ponemos a dos personas a medio metro de distancia. Si retiramos un 1% de los electrones de las personas (se quedan cargadas las personas). La fuerza electrostatica que aparece entre ellas es la misma que experimentaria una masa tan grande como toda la masa del planeta concentradada?  
+
+Vamos a aproximar las dos personas a dos cargas puntuales para usar la ley de Couloumb 
+
+$F_e = k_e \frac{qq}{r^2}$ 
+
+$F_m = M g$ 
+
+¿Cómo estimar las cargas? 65% del cuerpo es 0, x % N, etc. ¿Donde esta la masa en los atomos? 
+
+Queremos estimar el numero de protonoes que hay en el cuerpo para estimar que el 1% es lo que quitamos. Hay un poquito mas de protones (por el H) asumiendo que hay el mismo numero de protones que electrones. 
+
+La mitad de la masa del cuerpo son protones: 
+
+$1/2 80 kg \frac{1 prot}{1.673 10^{-27} kg 0.01 \frac{1.6 10^{-19}}{electron}} = 4 10^7 C$ 
+
+¿Cuál sería la fuerza eléctrica? 
+
+$F_e = \frac{9 10^9 Nm^2}{C^2} \frac{(4 0^7 C)^2}{(0.5 m)^2} = 5 10^25 N $
+
+$F_g = M g = 6 \cdot 10^24 kg  \cdot  9.8 m/s^2 = 6  \cdot  10^25 N $
+
+Para masas pequeñas, la importancia es la fuerza electrica. 
+
+
+**** Ejercicio 2.3 
+
+¿Qué campo total resulta en los puntos donde se intercruzan las dos esferas? 
+
+Podemos calcular el campo que produce una esfera, el que produce la otra y como en la zona intermedia la contribución de las cargas se anula, no se tiene en cuenta. 
+
+$\vec{E} = \int \int \int k_e \frac{\rho \d Vol}{r^2} \hat{u_r}
+
+
+
+No se podría usar el teoerema de Gauss porque no hay una superficie en la que el E sea igual en todos los puntos. 
+
+*  Temas 3 Electrostática en materiales conductores
+
+Hasta ahora hemos estado hablando de interacciones de cargas en el vacío y ahora pasaremos a hablar de qué ocurre en los materiales. 
+
+Hablaremos en el tema 3 de Materiales que son buenos conductores 
+
+Hablaremos en el tema 4 de Materiales que son malos conductores 
+
+
+Un material es conductor cuando contiene cargas libres que pueden moverse con gran facilidad. 
+
+Si aparece un campo electrico las cargas se van a desplazar. ¿Cuando se va a alcanzar el equilibrio? Nos imaginamos un vaso de agua con cargas positivas y negativas. Lo que pasa es que los atomos van a tender a acumularse en los extremos. El resultado es que esa cargas producen un campo que van dsde las positivas hasta las negativas. El conjunto de iones produce un campo, que sumado al campo E introducido, debe suceder que en equilibrio cesa el movimiento de iones. Que signifca el equilibrio? Que esos dos campos son iguales (El E tot =0).  Mientras no sean cero los iones se van desplazando. 
+
+La distribución con sales es un ejemplo muy claro. Nuestro propio cuerpo es un gran ejeplo de material conductor. El cuerpo humano puede conducir bastante bien la correinte electrica. Y si hay un campo electrico se mueven los iones. Podemos medir como de conductor es nuestro cuerpo. La piel es un buen aislante que esta seca. Cuando la piel es seca nos aisla. CUando la piel está mojada, nos volvemos muy buenos conductores de la electricida. 
+
+Otro ejemplo son los materiales metalicos cuando uno habla de conductores. Los materiales metalicos: tenemos una red cristalina , en la mayoría encontrais granos, y hay un conjunto de electrones que puede moverse con mucha facilidad. Las particulas cargadas que se mueven en el caso de los metales son 
+
+¿Qué pasa cuando se alcanza la situación de equilibrio en los metales? 
+
+Vamos a fijarnos en las características de un material conductor en equilibrio eléctrico 
+
+Lo primero que ocurre es que en el equilibrio el campo es 0 
+
+(a) En equlibio, E_interior = 0 en todo el volumen . Si no fuera nulo continuaria el movimeinto de las cargas libres en el voolumen)
+
+(b) Que ocurre con el potencial electrico si el campo E es constante. Es constante porque el E es -grad del potencial tiene que ser 0. Podría ser no nulo. 
+
+(c) ¿Como puede ser entonces la densidad de carga por ud de volumen $\rho_{int}$? Necesariamente tiene que ser 0 por el hecho de que el campo electrico es 0 es el siguiente. Una forma de razonarlo es que al ser el campo electrico igual a 0, si aplicamos el tereoma de Gauss que nos dice que el flujo del campo E para cualquier superficie cerrada debe ser igual a la carga contenida por dentro partido por epsilo 0, el teorema de gauss se cumple para cualquier superficie que consideremos.  
+
+¿Cual es la unica forma de garantizar que para cualquier superficie que cojamos, siempre la carga interior tiene que ser igual a 0? . Imaginemos que tenemos una region del espacio en la que la carga sea posisitva. En ese caso podríamos dibujar una superficie de gauss que no cumpliera la condición de 0. Por tanto no puede haber ning
+
+En la aproximacion de medio continuo lo que vemos es que la carga por unidad de volumen es nula. 
+
+
+***Ejemplo: campo eléctrico en la superficie del conductor 
+
+Puesto que dentro del conductor el potencial eléctrico es constnate, automáticamente sabemos que el campo elécticro ha de ser perpendicular a la superficie equipotencial. 
+
+La superficie del condutor en equilibrio es de hecho una superficie equpotencial. 
