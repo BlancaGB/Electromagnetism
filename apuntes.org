@@ -336,8 +336,88 @@ Lo primero que ocurre es que en el equilibrio el campo es 0
 En la aproximacion de medio continuo lo que vemos es que la carga por unidad de volumen es nula. 
 
 
-***Ejemplo: campo eléctrico en la superficie del conductor 
+*** Ejemplo: campo eléctrico en la superficie del conductor 
 
 Puesto que dentro del conductor el potencial eléctrico es constnate, automáticamente sabemos que el campo elécticro ha de ser perpendicular a la superficie equipotencial. 
 
 La superficie del condutor en equilibrio es de hecho una superficie equpotencial. 
+
+
+Clase del 3 de octubre de 2022 
+
+En este tema hemos estado estudiando qué ocurre con los materiales cuando están en equilibrio. Las cargas se distribuyen de forma que la .. es nulo. Hemos hablado de dos condensadores separados por un espacio no conductor (el vacío). En el último día hablamos de la capacidad de un condensador. Hoy hablaremos de qué ocurre cuando unimos varios condensadores. Y acabaremos con ejemplos. 
+
+** Capacidad de un condensador 
+
+La placa a mayor potencial tendrá una carga positiva y la placa a menor potencial tendrán una caga negativa. En la última clase habíamos comprobado que la capacidad para un condensador de placas paralelas es: 
+
+A cada una de las placas de los condensadores se le suele llamar armadura. 
+
+$ Q = C (V^+ - V^-) $ 
+
+$C = \frac{\epsilon_0 A}{d}
+
+Para hacer el cálculo habíamos visto cómo es el campo eléctrico dentro del conductor: homogéneo en el interior del conductor. 
+
+A veces nos interesa combinar varios condensadores, entonces vamos a ver cuál es la re
+
+** Asociación de condensadores 
+
+*** En paralelo
+
+Queremos calcular la carga resultante y el campo resultante. 
+
+(poner dibujo de asociación de condensadores en paralelo). 
+
+En el equlibrio, todas las armaduras de arriba estarían a un potencial V+ y las de abajo a V-. Igual diferencia de potencial para todos ellos. Así que la carga que aparece en cada uno de ellos será la carga multiplicada por la diferencia de potencial : 
+
+Si nos preocupamos del condensador iésimo: 
+
+$Q_1 = C_1 (V^+ - V^-) $ 
+
+
+Carga total: 
+
+$Q_{tot} = C_1 (V^+ - V^-) + ...+ C_i(V^+ - V^-)+C_N(V^+ - V^-)= (V^+ - V^-) \sum_{i=1}^{N} C_i $ 
+
+En este caso la relación entre la carga total $Q_{tot}$ del conjunto y la diferencia de potencial es: 
+
+$ Q_{tot} = \sum_{i=1}^{N} C_i (V^+ - V^-)$, 
+
+donde $\sum_{i=1}^{N}$ es la carag equivalente $C_{equivalente}$ Un condensador que tuviera esa capacidad se comportaría igual. Estamos pensando en las cargas en equilibrio, no nos preocupamos de lo rápido o lento que sea el proceso de equilibrio (si los cables tienen resistencia etc).  La capacidad equivalente es la suma de las capacidades. 
+
+*** En serie 
+
+(poner dibujo de clase) 
+
+Para entender qué ocurre en este caso, partiendo de la situación inicial de descarga y luego se conecta a una bateria (diferencia de potencial en los extremos). ¿Qué ocurre al conectar la diferencia de potencial? Redistribución de cargas a causa de la bateria. HAY UN FLUJO DE CARGA. Sabemos que en cada armadura habrá una carga, positiva en una de las placas y negativa en las otras. Si en un condensador aparece carga en una armadura, han llegado electrones a una placa (que salen de la placa de abajo). En cualquier caso para dos condensadores consecutivos las cargas son iguales. Lo que sale de uno sale de la otra. 
+
+La carga es la misma en todos los condensadores. En cada condensador habrá una cierta diferencia de potencial 
+
+$\Delta V_1 + Delta V_2+ ...+Delta V_n =V^+ - V^-$ .  
+
+$\Delta V_1 + Delta V_2+ ...+Delta V_n =V^+ - V^-$ .  
+
+completar fórmulas. 
+
+Ejemplos de condensadores en serie y en paralelo. 
+
+** Energía electrostática para una distribución cualquiera de cargas
+
+Si tenemos una carga puntual Q y otra que se mueve de un punto a otro, la carga Q produce un campo elecetrico que cambia de un punto a otro y cuando la carga q se mueve de un punto a otro punto al cambiar de lugar hay una variación de energía potencial. Para colocar una serie de cargas en el espacio necesitamos realizar un trabajo para oponernos a una repulsion. Si son cargas negativas que se atraen, para acercarlas neceistamos realiar un trabajo. 
+
+Copiar fórmulas 
+
+*Energía almacenada en un condensador 
+
+(copiar formulas)
+
+Para terminar la clase vamos a hacar algunos comentarios. Hemos visto que los materiales buenos conductores tenemos cargas libres que pueden moverse con movilidad (por ejemplo en los metales, donde hay electrones libres). El campo electrico dentro del material es nulo. 
+
+Puede haber una distrbución de cargas. En los modelos que utilizamos de medio continuo vemos 
+
+SI el conductor de arriba tiene un cierto potencial mas pequeñito que el de arriba. Podriamos ver como son los electrones acelerados en funcion de como es el E. Esa 
+
+Ejemplo: desfibrilidadores. Almacenan energia electrica a partir de condensadores. 
+
+Ejemplo: celulas marcapasos. Si dan lugar a señales que no siguen un corden concreto se produce el fenomeno de fibrilacion. Una posibildiad para recuperar la contraccion periodica (contraccion al unisono de las celulas). 
