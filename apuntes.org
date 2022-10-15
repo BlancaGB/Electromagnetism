@@ -408,7 +408,7 @@ Si tenemos una carga puntual Q y otra que se mueve de un punto a otro, la carga 
 
 Copiar fórmulas 
 
-*Energía almacenada en un condensador 
+* Energía almacenada en un condensador 
 
 (copiar formulas)
 
@@ -421,3 +421,86 @@ SI el conductor de arriba tiene un cierto potencial mas pequeñito que el de arr
 Ejemplo: desfibrilidadores. Almacenan energia electrica a partir de condensadores. 
 
 Ejemplo: celulas marcapasos. Si dan lugar a señales que no siguen un corden concreto se produce el fenomeno de fibrilacion. Una posibildiad para recuperar la contraccion periodica (contraccion al unisono de las celulas). 
+
+* Tema 4: Materiales aislantes 
+
+Estamos considerando dos tipos de materiales: conductores que tienen cargas libres, y materiales aislantes, que no tienen cargas libres. 
+
+Vamos a ver qué sucede con estos materiales cuando hay un campo electrico: las cargas ligadas a los átomos pueden sufrir ligeros desplazamientos. El centro de las cargas positivas y negativas puede no coincidir (hay dos polos, uno positivo y uno negativo: se dice que la molecula esta polarizada). Vamos a estudiar qué pasa cuando está polarizado, vamos a definir el momento dipolar y esto nos va a permitir estudiar qué pasa cuando hay un campo electrico. 
+
+** Ejemplos: 
+
+La molécula formada por Cl e H. El cloro es mucho más voluminoso, y más electronegativo que el H. El electrón que corrrespondería al H va a estar más cerca del átomo de Cl. Si buscamos en esta molécula cómo están centradas ls moléculas positivas y negativas, en torno al Cl hay un electron mas y en torno al H hay una carga positiva más. Entonces esto viene a ser el equivalente, de una forma muy simplista, a una carga positiva y negativa separada una cierta distancia. 
+
+El modelo que vamos a considerar es que hay dos cargas, perfecto, separadas una cierta distancia, d. Algo así ocurre por ejemplo así en el caso del agua. 
+
+¿Qué ocurre si hay un campo eléctrico (i.e. otras cargas que dan lugar a un campo eléctrico)? 
+
+En este caso los protones del núcleo tienden a desplazarse en el sentido del campo electrico, y los electrones en el sentido opuesto. 
+
+Puede haber dipolos permanentes, o dipolos inducidos. Los campos dan lugar a que las moléculas se polaricen. 
+
+** Dipolo eléctrico
+
+El momento dipolar lo podemos escribir como la carga q por la distancia. Damos un sentido al momento dipolar, desde la garga negativa a la positiva
+
+$\vec{p} = qd 
+
+Para un dipolo electrico podemos hacer un análisis de que es lo que el dipolo produce en el exterior. Podemos calcular como es el campo electrico y el potencial electrico (superficies equipotenciales perpendiculares al campo electrico). 
+
+Creo que es más interesante que nos centremos en qué ocurre con el material desde el punto de vista de la polarización. 
+
+** Polarización de un material dieléctrico $\vec{P}$
+
+Como por efecto térmico cada molecula tendrá una cierta energía, no todas tendrán el mismo momento dipolar ni la magnitud será la misma. Pero debido a la presencia de un campo eléctrico, las particulas tenderán a orientarse en promedio en presencia de un capo. 
+
+Las fuerzas que sienten las cargas positivas y negativa tienen sentido distinto, po r lo que aparece un momento que tienen a hacer que el dipolo se oriente en el sentido del campo eléctrico: los dipolos se reorientan en sentido del campo electrico E. 
+
+Para saber cómo está polarizado un medio utilizamso el momento de polarización $\vec{P}$
+
+La polarización del material la definimos como el momento dipolar total por unidad de volumen. 
+
+$\vec{P} = \frac{\sum \vec{P_i}}{\Delta Vol}
+
+Por la agitación térmica hace que las moléculas cambien continuamente de orientación y de posición, es lo que ocurre cuando nosfijamos a nivel de partículas: en una red cristalina y un metal incluso en las redes cristalinas los átomos no están en su posición, hay un cierto desorden. Por ello, hay una cierta fluctuación y en promedio es P pero no es perfecto. 
+
+Por los efectos de que las moleculas se reorientan y polarizan. 
+
+La polarización P depende del campo eléctrico E. Para valores no muy grandes, para la mayoría de materiales podemos escribir:
+
+$\vec{P} = cte \vec{E}$
+$\vec{P} = \Xi_e \epsilon_0 \vec{E}$
+
+Si el material se polariza facilmente, \Xi_e  tendrá un valor grande, si se polariza poco, será pequeñito. A esa constante le llamamos "Susceptibilidad". No tiene unidades. $\epsilon_0 = 8.85 10^{-12}$ es lo que habíamos llamado permitividad eléctrica del vacío$. Es fácil recordar que $1/4\pi \epsilon_0 = 9 10^9 Nm^2 C^{-2}$
+
+Podemos pensar en algunos valores para diferentes medios
+
+- Vacío: ¿cuál sería el valor? 0. ¿Por qué? No hay nada, porquqe no hay dipolos.
+- Cualquier gas en condiciones normales: el aire atmosférico por ejemplo. densidad 1kg/m3. mil veces mas pequeña la densidad que el agua. Como hay tan poquitas poleculas, la susceptibilidad será bastante pequeño, del orden de 10^-3 - 10^-4
+- Cerámicos: valor de 20-40
+- Agua a 20ºC: densidad 1kg/l. Tiene moleculas polares y puede orientarse facilmente, tienen un valor de 80. 
+
+** Efecto de la polarización
+
+Vamos al caso de un material polarizado homogéneamente: 
+
+Ver fotografía
+
+Si calculamos el momento dipolar para los dos casos (a) y (b): 
+
+(a) La suma de todos los dipolos sería simplemente el vector de polarización multiplicado por el volumen, puesto que el vecotr de polarización lo que incluye es momento dipolar por unidad dde volumen. 
+
+$\vec{P_{tot}}=\vec{P}Vol = \vec{}$
+
+
+(b) La carga positiva sería $\sigma_{lig}$ y la carga negativa $-\sigma_{lig}$
+
+(completar con foto)
+
+Esto se puede generalizar. 
+
+Una forma gráfica de hahcer 
+
+Clase del jueves 13 de octubre 
+
+** Ejercicio 4.3 
